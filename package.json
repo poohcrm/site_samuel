@@ -1,0 +1,13 @@
+{
+  "name": "ronald-christopher-page",
+  "version": "1.0.0",
+  "description": "Página Ronald Christopher - Inteligência Artificial Avançada",
+  "scripts": {
+    "start": "npx http-server -p 3000 -o",
+    "dev": "npx http-server -p 3000 -o"
+  },
+  "keywords": ["ronald-christopher", "ai", "inteligencia-artificial"],
+  "author": "",
+  "license": "ISC"
+}
+
