@@ -1,12 +1,12 @@
 {
   "name": "ronald-christopher-page",
   "version": "1.0.0",
-  "description": "Página Ronald Christopher - Inteligência Artificial Avançada",
+  "description": "Página Ronald Christopher - Sonorização e Iluminação Profissional",
   "scripts": {
     "start": "npx http-server -p 3000 -o",
     "dev": "npx http-server -p 3000 -o"
   },
-  "keywords": ["ronald-christopher", "ai", "inteligencia-artificial"],
+  "keywords": ["ronald-christopher", "sonorizacao", "iluminacao", "eventos", "audio", "iluminacao-cenica"],
   "author": "",
   "license": "ISC"
 }

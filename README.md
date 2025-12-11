@@ -1,6 +1,6 @@
 # Página Ronald Christopher
 
-Página web estática para Ronald Christopher - Inteligência Artificial Avançada.
+Página web estática para Ronald Christopher - Sonorização e Iluminação Profissional.
 
 ## Estrutura do Projeto
 
