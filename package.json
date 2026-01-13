@@ -1,12 +1,12 @@
 {
-  "name": "ronald-christopher-page",
+  "name": "daniele-moraes-goncalves-page",
   "version": "1.0.0",
-  "description": "Página Ronald Christopher - Sonorização e Iluminação Profissional",
+  "description": "Página Daniele Moraes Gonçalves - Comércio Varejista",
   "scripts": {
     "start": "npx http-server -p 3000 -o",
     "dev": "npx http-server -p 3000 -o"
   },
-  "keywords": ["ronald-christopher", "sonorizacao", "iluminacao", "eventos", "audio", "iluminacao-cenica"],
+  "keywords": ["daniele-moraes-goncalves", "comercio-varejista", "varejo", "produtos", "comercio"],
   "author": "",
   "license": "ISC"
 }

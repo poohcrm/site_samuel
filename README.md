@@ -1,6 +1,6 @@
-# Página Ronald Christopher
+# Página Daniele Moraes Gonçalves
 
-Página web estática para Ronald Christopher - Sonorização e Iluminação Profissional.
+Página web estática para Daniele Moraes Gonçalves - Comércio Varejista de Produtos Diversificados.
 
 ## Estrutura do Projeto
 
