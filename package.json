@@ -1,12 +1,12 @@
 {
-  "name": "carol-ferreira-fotos-page",
+  "name": "fernanda-novanta-marketing-page",
   "version": "1.0.0",
-  "description": "Página Carol Ferreira Fotos LTDA - Produção de Fotografias",
+  "description": "Página Fernanda Novanta Marketing Digital e Comércio LTDA - Marketing Direto",
   "scripts": {
     "start": "npx http-server -p 3000 -o",
     "dev": "npx http-server -p 3000 -o"
   },
-  "keywords": ["carol-ferreira-fotos", "fotografia", "fotos", "produção-fotografica", "fotografo"],
+  "keywords": ["fernanda-novanta", "marketing-digital", "marketing-direto", "comercio", "marketing"],
   "author": "",
   "license": "ISC"
 }

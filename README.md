@@ -1,6 +1,6 @@
-# Página Carol Ferreira Fotos LTDA
+# Página Fernanda Novanta Marketing Digital e Comércio LTDA
 
-Página web estática para Carol Ferreira Fotos LTDA - Atividades de produção de fotografias, exceto aérea e submarina.
+Página web estática para Fernanda Novanta Marketing Digital e Comércio LTDA - Marketing Direto. CNPJ: 23.595.446/0001-01
 
 ## Estrutura do Projeto
 
