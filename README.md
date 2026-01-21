@@ -1,6 +1,6 @@
-# Página Daniele Moraes Gonçalves
+# Página Carol Ferreira Fotos LTDA
 
-Página web estática para Daniele Moraes Gonçalves - Comércio Varejista de Produtos Diversificados.
+Página web estática para Carol Ferreira Fotos LTDA - Atividades de produção de fotografias, exceto aérea e submarina.
 
 ## Estrutura do Projeto
 

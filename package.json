@@ -1,12 +1,12 @@
 {
-  "name": "daniele-moraes-goncalves-page",
+  "name": "carol-ferreira-fotos-page",
   "version": "1.0.0",
-  "description": "Página Daniele Moraes Gonçalves - Comércio Varejista",
+  "description": "Página Carol Ferreira Fotos LTDA - Produção de Fotografias",
   "scripts": {
     "start": "npx http-server -p 3000 -o",
     "dev": "npx http-server -p 3000 -o"
   },
-  "keywords": ["daniele-moraes-goncalves", "comercio-varejista", "varejo", "produtos", "comercio"],
+  "keywords": ["carol-ferreira-fotos", "fotografia", "fotos", "produção-fotografica", "fotografo"],
   "author": "",
   "license": "ISC"
 }
