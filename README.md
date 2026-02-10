@@ -1,6 +1,6 @@
-# Página Carol Ferreira Fotos LTDA
+# Página Ronald Christopher Silva Consultoria Empresarial
 
-Página web estática para Carol Ferreira Fotos LTDA - Fotografia Profissional e Produção Audiovisual. CNPJ: 41.110.095/0001-83
+Página web estática para Ronald Christopher Silva Consultoria Empresarial - Soluções Empresariais. CNPJ: 37.254.359/0001-03
 
 ## Estrutura do Projeto
 

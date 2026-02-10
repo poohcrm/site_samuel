@@ -1,12 +1,12 @@
 {
-  "name": "carol-ferreira-fotos-page",
+  "name": "ronald-christopher-consultoria-page",
   "version": "1.0.0",
-  "description": "Página Carol Ferreira Fotos LTDA - Fotografia Profissional e Produção Audiovisual",
+  "description": "Página Ronald Christopher Silva Consultoria Empresarial - Soluções Empresariais",
   "scripts": {
     "start": "npx http-server -p 3000 -o",
     "dev": "npx http-server -p 3000 -o"
   },
-  "keywords": ["carol-ferreira-fotos", "fotografia", "fotos", "produção-audiovisual", "fotografo"],
+  "keywords": ["ronald-christopher", "consultoria-empresarial", "consultoria", "empresarial", "gestão"],
   "author": "",
   "license": "ISC"
 }
