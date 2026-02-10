@@ -46,7 +46,7 @@ body {
 }
 
 .logo h1 {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     font-weight: 700;
     color: var(--primary-color);
     letter-spacing: -0.5px;
@@ -329,13 +329,38 @@ body {
 .footer {
     background-color: var(--text-color);
     color: white;
-    padding: 2rem 0;
+    padding: 3rem 0;
     text-align: center;
 }
 
-.footer p {
-    margin: 0;
-    font-size: 0.95rem;
+.footer-content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.footer-content p {
+    margin: 0.75rem 0;
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+.footer-content p:first-child {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.footer-tagline {
+    font-style: italic;
+    margin: 1.5rem 0 !important;
+    font-size: 1rem !important;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.footer-content p:last-child {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    font-size: 0.85rem;
 }
 
 /* Responsive Design */
