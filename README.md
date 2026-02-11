@@ -1,6 +1,6 @@
-# Página Pemi It
+# Página Ronald Christopher Silva Consultoria Empresarial
 
-Página web estática para Pemi It - Tecnologia da Informação e Suporte Técnico. CNPJ: 64.300.610/0001-93
+Página web estática para Ronald Christopher Silva Consultoria Empresarial - Soluções Empresariais. CNPJ: 37.254.359/0001-03
 
 ## Estrutura do Projeto
 

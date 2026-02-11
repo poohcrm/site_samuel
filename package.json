@@ -1,12 +1,12 @@
 {
-  "name": "pemi-it-page",
+  "name": "ronald-christopher-consultoria-page",
   "version": "1.0.0",
-  "description": "Página Pemi It - Tecnologia da Informação e Suporte Técnico",
+  "description": "Página Ronald Christopher Silva Consultoria Empresarial - Soluções Empresariais",
   "scripts": {
     "start": "npx http-server -p 3000 -o",
     "dev": "npx http-server -p 3000 -o"
   },
-  "keywords": ["pemi-it", "tecnologia-informacao", "ti", "suporte-tecnico", "consultoria-ti"],
+  "keywords": ["ronald-christopher", "consultoria-empresarial", "consultoria", "empresarial", "gestão"],
   "author": "",
   "license": "ISC"
 }
