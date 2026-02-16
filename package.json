@@ -1,12 +1,12 @@
 {
-  "name": "ronald-christopher-consultoria-page",
+  "name": "wallison-junio-transporte-page",
   "version": "1.0.0",
-  "description": "Página Ronald Christopher Silva Consultoria Empresarial - Soluções Empresariais",
+  "description": "Página Wallison Junio da Silva dos Reis - Transporte Rodoviário de Cargas",
   "scripts": {
     "start": "npx http-server -p 3000 -o",
     "dev": "npx http-server -p 3000 -o"
   },
-  "keywords": ["ronald-christopher", "consultoria-empresarial", "consultoria", "empresarial", "gestão"],
+  "keywords": ["wallison-junio", "transporte", "cargas", "logistica", "transporte-rodoviario"],
   "author": "",
   "license": "ISC"
 }
