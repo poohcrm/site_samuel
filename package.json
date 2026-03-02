@@ -1,12 +1,12 @@
 {
-  "name": "maia-tech-page",
+  "name": "samuel-andrade-consultoria-page",
   "version": "1.0.0",
-  "description": "Página Maia Tech - Centro Automotivo e Manutenção de Veículos",
+  "description": "Página Samuel Andrade Consultoria LTDA - Serviços Administrativos e Consultoria Técnica",
   "scripts": {
     "start": "npx http-server -p 3000 -o",
     "dev": "npx http-server -p 3000 -o"
   },
-  "keywords": ["maia-tech", "centro-automotivo", "manutencao", "automotivo", "mecanica"],
+  "keywords": ["samuel-andrade", "consultoria", "servicos-administrativos", "cartografia", "topografia"],
   "author": "",
   "license": "ISC"
 }

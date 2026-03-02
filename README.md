@@ -1,6 +1,6 @@
-# Página Maia Tech
+# Página Samuel Andrade Consultoria LTDA
 
-Página web estática para Maia Tech - Centro Automotivo e Manutenção de Veículos. CNPJ: 05.799.100/0001-43
+Página web estática para Samuel Andrade Consultoria LTDA - Serviços Administrativos e Consultoria Técnica. CNPJ: 65.053.072/0001-42
 
 ## Estrutura do Projeto
 
