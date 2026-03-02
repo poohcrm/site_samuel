@@ -1,6 +1,6 @@
-# Página Teixeira Empreendimentos
+# Página Maia Tech
 
-Página web estática para Teixeira Empreendimentos - Intermediação e Agenciamento de Negócios. CNPJ: 55.814.932/0001-60
+Página web estática para Maia Tech - Centro Automotivo e Manutenção de Veículos. CNPJ: 05.799.100/0001-43
 
 ## Estrutura do Projeto
 

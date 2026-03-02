@@ -1,12 +1,12 @@
 {
-  "name": "teixeira-empreendimentos-page",
+  "name": "maia-tech-page",
   "version": "1.0.0",
-  "description": "Página Teixeira Empreendimentos - Intermediação e Agenciamento de Negócios",
+  "description": "Página Maia Tech - Centro Automotivo e Manutenção de Veículos",
   "scripts": {
     "start": "npx http-server -p 3000 -o",
     "dev": "npx http-server -p 3000 -o"
   },
-  "keywords": ["teixeira-empreendimentos", "intermediacao", "agenciamento", "negocios", "representacao-comercial"],
+  "keywords": ["maia-tech", "centro-automotivo", "manutencao", "automotivo", "mecanica"],
   "author": "",
   "license": "ISC"
 }
