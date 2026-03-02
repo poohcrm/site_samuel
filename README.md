@@ -1,6 +1,6 @@
-# Página Wallison Junio da Silva dos Reis
+# Página Teixeira Empreendimentos
 
-Página web estática para Wallison Junio da Silva dos Reis - Transporte Rodoviário de Cargas. CNPJ: 57.580.923/0001-87
+Página web estática para Teixeira Empreendimentos - Intermediação e Agenciamento de Negócios. CNPJ: 55.814.932/0001-60
 
 ## Estrutura do Projeto
 

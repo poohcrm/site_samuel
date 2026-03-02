@@ -1,12 +1,12 @@
 {
-  "name": "wallison-junio-transporte-page",
+  "name": "teixeira-empreendimentos-page",
   "version": "1.0.0",
-  "description": "Página Wallison Junio da Silva dos Reis - Transporte Rodoviário de Cargas",
+  "description": "Página Teixeira Empreendimentos - Intermediação e Agenciamento de Negócios",
   "scripts": {
     "start": "npx http-server -p 3000 -o",
     "dev": "npx http-server -p 3000 -o"
   },
-  "keywords": ["wallison-junio", "transporte", "cargas", "logistica", "transporte-rodoviario"],
+  "keywords": ["teixeira-empreendimentos", "intermediacao", "agenciamento", "negocios", "representacao-comercial"],
   "author": "",
   "license": "ISC"
 }
